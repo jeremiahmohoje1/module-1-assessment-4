@@ -1,0 +1,17 @@
+h1{
+    color:skyblue;
+}
+
+table{
+    font-family:'Courier New', Courier, monospace 
+    border-collapse: collapse;
+    border-width: 1px;
+    border-style: solid;
+    border-color:#a62680
+}
+
+th{
+    font-weight: 800;
+    background-color:salmon;
+    color: blue;
+}
